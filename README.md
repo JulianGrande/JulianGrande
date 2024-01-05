@@ -12,7 +12,7 @@ Currently a senior at Rutgers University | BS Computer Science 2024
 
 -jdm car enthusiast
 
-##Contact 📬
+## Contact 📬
 
 -For professional inquiries, reach out via email at [JulianRGrande@gmail.com](mailto:julianrgrande@gmail.com). 
 
