@@ -7,7 +7,9 @@ Currently a senior at Rutgers University | BS Computer Science 2024
 ## Fun Facts 🚗
 
 -favorite vscode themes are InBedBy7 or One Dark Pro Darker
+
 -huge kehlani fan
+
 -jdm car enthusiast
 
 ##Contact 📬
