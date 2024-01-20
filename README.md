@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">Software Engineer based in New Jersey</h3>
 
-- 🔭 I’m currently working on **Flutter Chat App**
+- 🔭 I’m currently working on: a **Flutter Chat App**
 
-- 🌱 I’m currently learning **AI and Data Management using pandas**
+- 🌱 I’m currently learning: **AI and Data Management using pandas**
 
-- 📫 How to reach me **JulianRGrande@gmail.com**
+- 📫 How to reach me: [JulianRGrande@gmail.com](mailto:julianrgrande@gmail.com).
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ceDuzclr3iZY0oL1IO1WxQaF3LRaHSsZ/view?usp=sharing](https://drive.google.com/file/d/1ceDuzclr3iZY0oL1IO1WxQaF3LRaHSsZ/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1ceDuzclr3iZY0oL1IO1WxQaF3LRaHSsZ/view?usp=sharing)
 
-- ⚡ Fun fact **JDM car enthusiast**
+- ⚡ Fun fact: **JDM car enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
