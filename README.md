@@ -1,4 +1,4 @@
-### Hi, I'm Julian 👋
+## Hi, I'm Julian 👋
 
 Currently a senior at Rutgers University | BS Computer Science 2024 
 
